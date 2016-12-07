@@ -18,3 +18,16 @@ Code standards
 
 # Set Up
 You will need [Node.js](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/download-center#community). [Yarn package manager](https://yarnpkg.com/en/docs/install) is also recommended, but you can use [npm](https://www.npmjs.com/) as well. After pulling the project down to your computer, run either yarn install or npm install  
+
+
+# Quality Rubric
+Please follow the following guidelines--your code will not be merged to master if they are not met.
+
+1. Please use functional programming concepts.
+2. All functions should be small and serve one purpose.
+3. Variables should be meaningfully named.
+4. Add spaces between the beginning and end of the inside of your parentheses, square brackets, and curly braces.
+5. Use two spaces, not tabs.
+6. Write tests for your code and make sure they pass.
+7. Please follow our linting guidelines.
+8. 85% of tests should pass.
