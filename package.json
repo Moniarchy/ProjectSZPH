@@ -6,6 +6,9 @@
     "react-scripts": "0.7.0"
   },
   "dependencies": {
+    "chai": "^3.5.0",
+    "enzyme": "^2.6.0",
+    "jest": "^18.0.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },
