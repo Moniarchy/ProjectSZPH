@@ -2,6 +2,20 @@
   "name": "SZPH",
   "version": "0.1.0",
   "private": true,
+  "jest": {
+    "testRegex": "(/tests/specs/.*|\\.(test|spec))\\.(js|jsx)$",
+    "collectCoverage": "true",
+    "coverageDirectory": "tests/coverage/",
+    "coverageReporters":[ "lcov", "text" ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 80,
+        "functions": 80,
+        "lines": 80,
+        "statements": 80
+      }
+    }
+  },
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
