@@ -23,11 +23,10 @@ You will need [Node.js](https://nodejs.org/en/) and [MongoDB](https://www.mongod
 # Quality Rubric
 Please follow the following guidelines--your code will not be merged to master if they are not met.
 
-1. Please use functional programming concepts.
-2. All functions should be small and serve one purpose.
-3. Variables should be meaningfully named.
-4. Add spaces between the beginning and end of the inside of your parentheses, square brackets, and curly braces.
-5. Use two spaces, not tabs.
-6. Write tests for your code and make sure they pass.
-7. Please follow our linting guidelines.
-8. 85% of tests should pass.
+1. All functions should be small and serve one purpose.
+2. Variables should be meaningfully named.
+3. Add spaces between the beginning and end of the inside of your parentheses, square brackets, and curly braces.
+4. Use two spaces, not tabs.
+5. Write tests for your code and make sure they pass.
+6. Please follow our linting guidelines.
+7. 85% of tests should pass.
